@@ -6,6 +6,18 @@
   flex-direction: column;
   justify-content: center;
 }
+
+.button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: yellow;
+  border: 3px solid red;
+  font-weight: bold;
+  padding: 10px 20px; /* Уменьшил padding для лучшего отображения в углу */
+  margin: 10px;
+  cursor: pointer;
+}
  
 .home-text10 {
   top: -3px;
