@@ -1,0 +1,78 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.home-text10 {
+  top: -3px;
+  left: 7px;
+  width: 472px;
+  height: 106px;
+  position: absolute;
+  font-size: 85px;
+  align-self: flex-start;
+}
+ 
+.home-text11 {
+  top: 94px;
+  left: 4px;
+  position: absolute;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+}
+ 
+.home-image1 {
+  top: 9px;
+  left: 528px;
+  width: 822px;
+  height: 460px;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.home-image2 {
+  left: 25px;
+  width: 984px;
+  bottom: 36px;
+  height: 487px;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.home-text24 {
+  top: 483px;
+  right: 243px;
+  position: absolute;
+  font-size: 64px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  border-radius: var(--dl-layout-radius-radius4);
+}
+ 
+.home-text30 {
+  top: 628px;
+  left: 1027px;
+  color: #ff0000;
+  height: 378px;
+  display: block;
+  position: absolute;
+  font-size: 6em;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  background-size: cover;
+  background-image: url('https://img.gazeta.ru/files3/811/16251811/shutterstock_1879845190-pic_32ratio_900x600-900x600-54814.jpg');
+}
+ 
+.home-image3 {
+  right: 11px;
+  width: 229px;
+  bottom: 6px;
+  height: 592px;
+  position: absolute;
+  object-fit: cover;
+}
