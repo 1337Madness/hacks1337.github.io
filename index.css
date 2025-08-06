@@ -49,12 +49,12 @@
 
 
 .home-image2 {
-  left: 200px;
+  left: 25px;
   width: 984px;
-  bottom: 436px;
+  bottom: 36px;
   height: 487px;
   position: absolute;
-  object-fit: cover;
+  object-fit: cover
 }
  
 .home-text24 {
