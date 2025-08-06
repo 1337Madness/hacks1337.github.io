@@ -39,11 +39,10 @@
 }
 
 .home-image1 {
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 822px;
-  height: 460px;
+  left: 25px;
+  width: 984px;
+  bottom: 36px;
+  height: 487px;
   position: absolute;
   object-fit: cover;
 } 
