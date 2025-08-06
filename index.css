@@ -39,8 +39,9 @@
 }
 
 .home-image1 {
-  top: 100px;
-  left: -538px;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
   width: 822px;
   height: 460px;
   position: absolute;
