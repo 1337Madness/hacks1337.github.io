@@ -7,6 +7,13 @@
   justify-content: center;
 }
 
+.video {
+  display: block; /* Убираем лишнее пространство под видео */
+  margin: 0 auto; /* Автоматические отступы по бокам для центрирования */
+  max-width: 100%; /* Чтобы видео не выходило за границы контейнера */
+  margin-top: 20px; /* Отступ сверху (можете изменить по своему вкусу) */
+}
+
 .button {
   position: absolute;
   top: -20px;
@@ -36,15 +43,6 @@
   font-size: 48px;
   font-style: normal;
   font-weight: 500;
-}
- 
-.home-image1 {
-  top: 9px;
-  left: 528px;
-  width: 822px;
-  height: 460px;
-  position: absolute;
-  object-fit: cover;
 }
  
 .home-image2 {
